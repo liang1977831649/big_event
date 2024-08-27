@@ -23,8 +23,8 @@ public class AliOssUtil {
     private static String path = "big-event";
 
 
-    private static String ACCESS_KEY_ID="LTAI5tDx4SW1kR8RMrVkd4jn";
-    private static String ACCESS_KEY_SECRET="iAbHDSdaBrhErtQ4zoKAN7zmAJJkXJ";
+    private static String ACCESS_KEY_ID="你阿里云的账号";
+    private static String ACCESS_KEY_SECRET="你阿里云密码";
 
 
 
